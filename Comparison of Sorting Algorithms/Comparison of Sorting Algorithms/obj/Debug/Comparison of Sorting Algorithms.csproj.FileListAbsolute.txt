@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\bin\Debug\Comparison of Sorting Algorithms.exe.config
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\bin\Debug\Comparison of Sorting Algorithms.exe
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\bin\Debug\Comparison of Sorting Algorithms.pdb
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\bin\Debug\LiveCharts.dll
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\bin\Debug\LiveCharts.pdb
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\bin\Debug\LiveCharts.xml
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\obj\Debug\Comparison of Sorting Algorithms.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\obj\Debug\Comparison_of_Sorting_Algorithms.Properties.Resources.resources
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\obj\Debug\Comparison of Sorting Algorithms.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\obj\Debug\Comparison of Sorting Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\obj\Debug\Comparison of Sorting Algorithms.csproj.CopyComplete
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\obj\Debug\Comparison of Sorting Algorithms.exe
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\obj\Debug\Comparison of Sorting Algorithms.pdb
+C:\Users\user\source\repos\Comparison of Sorting Algorithms\Comparison of Sorting Algorithms\obj\Debug\Comparison_of_Sorting_Algorithms.Form1.resources

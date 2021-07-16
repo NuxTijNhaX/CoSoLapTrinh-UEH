@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ListPath\ListPath\bin\Debug\ListPath.exe.config
+C:\Users\user\source\repos\ListPath\ListPath\bin\Debug\ListPath.exe
+C:\Users\user\source\repos\ListPath\ListPath\bin\Debug\ListPath.pdb
+C:\Users\user\source\repos\ListPath\ListPath\obj\Debug\ListPath.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ListPath\ListPath\obj\Debug\ListPath.Form1.resources
+C:\Users\user\source\repos\ListPath\ListPath\obj\Debug\ListPath.Properties.Resources.resources
+C:\Users\user\source\repos\ListPath\ListPath\obj\Debug\ListPath.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ListPath\ListPath\obj\Debug\ListPath.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ListPath\ListPath\obj\Debug\ListPath.exe
+C:\Users\user\source\repos\ListPath\ListPath\obj\Debug\ListPath.pdb
